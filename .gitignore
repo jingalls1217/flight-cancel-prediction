@@ -9,3 +9,4 @@ _*
 derby.log
 metastore_db*
 spark-warehouse
+data
