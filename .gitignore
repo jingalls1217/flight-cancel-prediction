@@ -9,3 +9,5 @@ _*
 derby.log
 metastore_db*
 spark-warehouse
+data/preprocessed_flight_data.tgz
+data/preprocessed_flight_data.csv
