@@ -1,0 +1,6 @@
+Flight Delay Prediction Model Endpoint:
+  hive_table_qualified_names:
+  - airlines.flight_prototype@cm
+  metadata:
+    query: "select * from airlines.flight_prototype"
+    training_file: "code/5_model_train.py"
